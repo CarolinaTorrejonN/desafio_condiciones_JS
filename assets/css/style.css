@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    padding-left: 70px;
+    background-color: rgb(142, 66, 213);
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+img {
+    border: solid 10px;
+    color: white;
+    border-radius: 100px;
+    width: 200px;
+    height: 300px;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.tarjetas {
+    display: flex;
+    flex-direction: wrap;
+    justify-content: space-evenly;
+}
+.boton {
+    text-align: center;
+    margin: 10px;
+}
