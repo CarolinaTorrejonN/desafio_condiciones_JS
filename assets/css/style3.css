@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(170, 118, 206);
+}
+h1 {
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button {
+    margin-top: 20px;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
